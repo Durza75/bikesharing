@@ -14,7 +14,7 @@ The purpose of this project is to analyze the NYC bikesharing system, citibike, 
 ### Results of NYC Citibike Analysis
 
 #### Figure 1: *Minutes of Trip Duration*
-![](/images/minutes_of_trip_duration.png)  
+![](/minutes_of_trip_duration.png)  
 Most rides last between 5 and 10 minutes, and then there is a an exponential decrease in ride length.
 
 #### Figure 2: *Checkout Times by Gender*
