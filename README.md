@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of this project is to analyze the NYC bikesharing system, citibike, and then use the results to start a bikesharing business in Des Moines, Iowa. The analysis was conducted via Tableau. Below is the link to the dashboard:
+The purpose of this project is to analyze the NYC bikesharing system, Citibike, and then use the results to start a bikesharing business in Des Moines, Iowa. The analysis was conducted via Tableau. Below is the link to the dashboard:
 
 [link to dashboard](https://public.tableau.com/app/profile/eric3972/viz/NYCCitibikeAnalysis_16379388760560/KeyOutcomesofNYCCitibikeAnalysis?publish=yes)
 
